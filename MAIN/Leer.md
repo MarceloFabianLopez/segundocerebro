@@ -17,7 +17,7 @@ git add .
 git commit -m "mensaje significativo"
 git push origin master
 ```
-
+### Grabado desde github web
 ### Descargar modificaciones
 
 ## Estructura
