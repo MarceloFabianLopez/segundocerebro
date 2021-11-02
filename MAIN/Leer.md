@@ -15,3 +15,7 @@ Vault creado en el disco en la ubicación:
 	facu : relacionado con Ingenieria en Agrimensura.
 
 	Cele : temas de hijita
+	
+## IMPORTANTE
+
+https://stackoverflow.com/questions/20303826/highlight-bash-shell-code-in-markdown-files
