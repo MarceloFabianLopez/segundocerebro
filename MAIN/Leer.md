@@ -18,6 +18,8 @@ git commit -m "mensaje significativo"
 git push origin master
 ```
 
+### Descargar modificaciones
+
 ## Estructura
 
 
