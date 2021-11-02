@@ -41,5 +41,7 @@ Vault creado en el disco en la ubicación:
 	Cele : temas de hijita
 	
 ## IMPORTANTE
+[Marckdown](https://markdown.es/)
+[codigo ssh](https://stackoverflow.com/questions/20303826/highlight-bash-shell-code-in-markdown-files)
+[Fórmulas matemáticas](https://www.math-linux.com/latex-26/faq/latex-faq/)
 
-https://stackoverflow.com/questions/20303826/highlight-bash-shell-code-in-markdown-files
