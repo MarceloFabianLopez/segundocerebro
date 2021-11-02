@@ -1,14 +1,34 @@
 En esta nota se explica el contenido de este vault y se describen los criterios.
+## Se vincula con un repo en github
 
-##Estructura
+Después de cada modificación lo último que se hace es correr los comandos de git para actualizar el repo remoto y al principio se bajan las modificaciones desde el mismo.
+
+### Inicio
+```shell
+git clone git@github.com:MarceloFabianLopez/segundocerebro.git 
+```
+
+clonar repo
+
+### Final
+
+```shell
+git add .
+git commit -m "mensaje significativo"
+git push origin master
+```
+
+## Estructura
 
 
-##VAULTS
+## VAULTS
 
-## MAIN
+### MAIN
+
 Vault creado en el disco en la ubicación:
 >/media/marcelo/Disco EXTERNO/VAULT
-###Carpetas
+
+### Carpetas
 
 	backup : Datos del repositorio en git, usado para backup y sincronización.
 

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "3dc82666b007c205",
+    "type": "split",
+    "children": [
+      {
+        "id": "996a8909fbfcc0e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Leer.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0d02f44527dcd67",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d3dac3753ab9fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f41a1e4baca867e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae47fd81bb893728",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b96223fdd161f15",
+    "type": "split",
+    "children": [
+      {
+        "id": "d695b3649bfa6cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5eb7f351e88bb23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MAIN/Leer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "996a8909fbfcc0e0",
+  "lastOpenFiles": [
+    "MAIN/Leer.md",
+    "MAIN/backup/Comandos git.md"
+  ]
+}
