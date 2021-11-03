@@ -1,0 +1,1 @@
+Esta carpeta es vuestro laboratorio donde realizar pruebas, ensayos y trasladar a vuestro Gestor de Conocimiento Personal todo aquello que os interese.

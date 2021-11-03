@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e0bbc0e8891d2afb",
+        "id": "814e5892439b1eef",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leer.md",
-            "mode": "preview"
+            "file": "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/Comandos.md",
+            "mode": "source"
           }
         }
       }
@@ -42,7 +42,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -68,13 +68,24 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leer.md",
+                "file": "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad43a39e412d064e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -86,10 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e0bbc0e8891d2afb",
+  "active": "814e5892439b1eef",
   "lastOpenFiles": [
-    "Leer.md",
-    "backup/Comandos git.md",
-    "backup/Git de este vault.md"
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/Comandos.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PDF/undefined-zotero.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PDF/undefined - Extracted Annotations (1662021 113254).md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PDF/Mozart subrayado4.pdf",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PDF/Mozart.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PDF/Highlights for Mozart subrayado4.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MIS VIAJES/Mi viaje a Ibiza.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MARKDOWN/MARKDOWN enlaces wikilinks a cabeceros.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MAPAS MENTALES/Untitled mindmap.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MAPAS MENTALES/OBSIDIAN mapas mentales.md"
   ]
 }
