@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test/GTD.md",
-            "mode": "preview"
+            "file": "AREAS.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/GTD.md",
+                "file": "AREAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/GTD.md",
+                "file": "AREAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,15 +108,15 @@
   },
   "active": "2cd5317b67a4ad1d",
   "lastOpenFiles": [
+    "AREAS.md",
+    "000 PARA INDEX.md",
+    "001 PROYECTOS.md",
     "test/GTD.md",
     "2021-11-07.md",
     "Ingeniero Agrimensor 2018.pdf",
     "Leer.md",
     "facu/materias/matematicac/catedra/Modulo 1 parte 1.md",
     "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MAPAS MENTALES/OBSIDIAN mapas mentales.md",
-    "test/Untitled.md",
-    "metodos de estudio/Recursos teoricos Khan.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/CREA TU PKM/Reglas de Markdown.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/ANKI PLUGIN/Mazo Capitales Amrica usando modo Neurocache.md"
+    "test/Untitled.md"
   ]
 }
