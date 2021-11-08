@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "814e5892439b1eef",
+        "id": "2cd5317b67a4ad1d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/Comandos.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,25 +85,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5642b50fc345aab2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "814e5892439b1eef",
+  "active": "2cd5317b67a4ad1d",
   "lastOpenFiles": [
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/Comandos.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PDF/undefined-zotero.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PDF/undefined - Extracted Annotations (1662021 113254).md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PDF/Mozart subrayado4.pdf",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PDF/Mozart.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PDF/Highlights for Mozart subrayado4.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MIS VIAJES/Mi viaje a Ibiza.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MARKDOWN/MARKDOWN enlaces wikilinks a cabeceros.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MAPAS MENTALES/Untitled mindmap.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MAPAS MENTALES/OBSIDIAN mapas mentales.md"
+    "2021-11-07.md",
+    "Ingeniero Agrimensor 2018.pdf",
+    "Leer.md",
+    "facu/materias/matematicac/catedra/Modulo 1 parte 1.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MAPAS MENTALES/OBSIDIAN mapas mentales.md",
+    "test/Untitled.md",
+    "metodos de estudio/Recursos teoricos Khan.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/CREA TU PKM/Reglas de Markdown.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/ANKI PLUGIN/Mazo Capitales Amrica usando modo Neurocache.md",
+    "facu/administrativo/Plan de estudio Ingeniero Agrimensor.md"
   ]
 }
