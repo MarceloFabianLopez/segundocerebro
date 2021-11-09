@@ -1,3 +1,6 @@
 {
-  "autorun": true
+  "autorun": true,
+  "format": "MMMM DD, YYYY",
+  "folder": "Daily Notes",
+  "template": "Notas Diarias"
 }

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd5317b67a4ad1d",
+        "id": "733c1d1ad9585d4d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS.md",
-            "mode": "source"
+            "file": "100 Crear PARA en Obsidian.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS.md",
+                "file": "100 Crear PARA en Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AREAS.md",
+                "file": "100 Crear PARA en Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,19 +104,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2cd5317b67a4ad1d",
+  "active": "733c1d1ad9585d4d",
   "lastOpenFiles": [
-    "AREAS.md",
+    "100 Crear PARA en Obsidian.md",
     "000 PARA INDEX.md",
     "001 PROYECTOS.md",
-    "test/GTD.md",
-    "2021-11-07.md",
-    "Ingeniero Agrimensor 2018.pdf",
-    "Leer.md",
-    "facu/materias/matematicac/catedra/Modulo 1 parte 1.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MAPAS MENTALES/OBSIDIAN mapas mentales.md",
-    "test/Untitled.md"
+    "Daily Notes/noviembre 08, 2021.md",
+    "2021-11-08.md",
+    "004 ARCHIVO.md",
+    "plantillas/Notas diarias.md",
+    "003 RECURSOS.md",
+    "002 AREAS.md",
+    "AREAS.md"
   ]
 }
