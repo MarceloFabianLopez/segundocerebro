@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 PARA INDEX.md",
+            "file": "Leer.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 PARA INDEX.md",
+                "file": "Leer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 PARA INDEX.md",
+                "file": "Leer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,15 +109,15 @@
   },
   "active": "733c1d1ad9585d4d",
   "lastOpenFiles": [
+    "Leer.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/CREA TU PKM/Reglas de Markdown.md",
     "000 PARA INDEX.md",
-    "002 AREAS.md",
-    "100 Crear PARA en Obsidian.md",
     "001 PROYECTOS.md",
-    "Daily Notes/noviembre 08, 2021.md",
-    "2021-11-08.md",
-    "004 ARCHIVO.md",
-    "plantillas/Notas diarias.md",
     "003 RECURSOS.md",
-    "AREAS.md"
+    "facu/materias/matematicac/apoyo/Baragatti -Sucessiones.md",
+    "facu/materias/matematicac/catedra/Modulo 1 parte 1.md",
+    "002 AREAS.md",
+    "facu/administrativo/Plan de estudio Ingeniero Agrimensor.md",
+    "Ingeniero Agrimensor 2018.pdf"
   ]
 }
