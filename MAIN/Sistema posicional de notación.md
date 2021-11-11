@@ -1,0 +1,3 @@
+>==La notación posicional== es un sistema de numeración en el cual ==cada dígito== posee un ==valor== que depende de su ==posición relativa==, la cual está determinada por la base, que es el número de dígitos necesarios para escribir cualquier número. 
+
+> >Un ejemplo de numeración posicional es el habitualmente usado sistema decimal **(base 10)**, necesitándose diez dígitos diferentes, los cuales deberán estar constituidos de un símbolo **(grafema)**, cuyo valor en orden creciente es: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.

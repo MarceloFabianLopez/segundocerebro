@@ -1,0 +1,1 @@
+![](https://tidytoc.com/wp-content/uploads/2020/12/GTD_Diagrama_Tidytoc_Productividad-878x1024.png)

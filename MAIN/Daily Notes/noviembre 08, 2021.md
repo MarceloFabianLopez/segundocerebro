@@ -6,6 +6,6 @@
 
 ## Notas
 
-- Nota 1
+- Nota 1  [#someday](app://obsidian.md/index.html#someday)
 - Nota 2
 - Nota 3
