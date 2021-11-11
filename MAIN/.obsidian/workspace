@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f4f081639e86c16f",
+        "id": "8aa3126407de925a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test/GTD.md",
-            "mode": "preview"
+            "file": "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/GTD.md",
+                "file": "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/GTD.md",
+                "file": "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,8 +115,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4f081639e86c16f",
+  "active": "8aa3126407de925a",
   "lastOpenFiles": [
+    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+    "Daily Notes/Untitled.md",
     "test/GTD.md",
     "001 PROYECTOS.md",
     "100 Crear PARA en Obsidian.md",
@@ -124,8 +126,6 @@
     "Celestita/Elementos de Matemática y Física.md",
     "Celestita/LOS NÚMEROS IRRACIONALES.md",
     "Celestita/LOS NÚMEROS ENTEROS.md",
-    "Celestita/LOS NÚMEROS ÍNDIGO ARÁBIGOS.md",
-    "Daily Notes/noviembre 11, 2021.md",
-    "Celestita/REPASO DE CAMPO NUMÉRICO.md"
+    "Celestita/LOS NÚMEROS ÍNDIGO ARÁBIGOS.md"
   ]
 }
