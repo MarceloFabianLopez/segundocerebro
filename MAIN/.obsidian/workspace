@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8aa3126407de925a",
+        "id": "a99dc2aa01153f7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+            "file": "prueba templater.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+                "file": "prueba templater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,14 +85,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+                "file": "prueba templater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5642b50fc345aab2",
+            "id": "38c77abe642b46f3",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -100,7 +100,7 @@
             }
           },
           {
-            "id": "ae32bf18c112a61a",
+            "id": "ea44b52f341253fc",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -108,24 +108,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "8aa3126407de925a",
+  "active": "a99dc2aa01153f7d",
   "lastOpenFiles": [
+    "prueba templater.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "test/prueba templater.md",
+    "@PROYETOS/ORGANIZAR VTOUR.md",
+    "BANDEJA DE ENTRADA.md",
+    "@PROYECTOS.md",
     "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
-    "Daily Notes/Untitled.md",
-    "test/GTD.md",
     "001 PROYECTOS.md",
-    "100 Crear PARA en Obsidian.md",
-    "000 PARA INDEX.md",
-    "Celestita/Elementos de Matemática y Física.md",
-    "Celestita/LOS NÚMEROS IRRACIONALES.md",
-    "Celestita/LOS NÚMEROS ENTEROS.md",
-    "Celestita/LOS NÚMEROS ÍNDIGO ARÁBIGOS.md"
+    "000 PARA INDEX.md"
   ]
 }

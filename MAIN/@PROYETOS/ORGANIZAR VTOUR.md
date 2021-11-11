@@ -1,0 +1,5 @@
+- [ ] Crear banner con oferta para inmos
+- [ ] Crear video compilado de promocionales inmos
+- [ ] Armar lista de publico afin para anuncio
+- [ ] Hacer anuncio en google
+- [ ] Planificar contenidos para redes
