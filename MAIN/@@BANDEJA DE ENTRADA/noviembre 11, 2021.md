@@ -16,6 +16,7 @@
 
 ## Notas
 
-- Nota 1
+- Cambio al git otro cambio
+- 
 - Nota 2
 - Nota 3
