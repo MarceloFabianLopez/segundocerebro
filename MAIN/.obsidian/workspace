@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "47a9b7b8c7a6ce73",
+    "id": "8a7fda57c225c9ac",
     "type": "split",
     "children": [
       {
-        "id": "11a3d731f0f98a56",
+        "id": "9fcef8d4bba8e71b",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -101,19 +101,29 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d496bd3850cfdc1e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "11a3d731f0f98a56",
+  "active": "9fcef8d4bba8e71b",
   "lastOpenFiles": [
+    "@@BANDEJA DE ENTRADA/git prueba 2.md",
     "@@BANDEJA DE ENTRADA/Probando git.md",
-    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+    "Untitled.md",
     "Daily Notes/noviembre 11, 2021.md",
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md"
   ]
 }
