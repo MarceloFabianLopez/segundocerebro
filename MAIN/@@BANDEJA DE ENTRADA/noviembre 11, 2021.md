@@ -16,8 +16,4 @@
 
 ## Notas
 
-- Cambio desde el git
-- 
-- Nota 2
-- deberia hacer comit
-- 
+Actualizado desde web de github
