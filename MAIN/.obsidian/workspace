@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "6d065a55362741b1",
+    "id": "47a9b7b8c7a6ce73",
     "type": "split",
     "children": [
       {
-        "id": "a269911f80b25a8a",
+        "id": "11a3d731f0f98a56",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "86a35ed3ff6b001b",
+    "id": "f0f0df86b239c68b",
     "type": "split",
     "children": [
       {
-        "id": "5033ec13787b085b",
+        "id": "75fb538b786b22b2",
         "type": "tabs",
         "children": [
           {
-            "id": "a9b486e46b24ed92",
+            "id": "5ffad56d55eb2bdc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,15 +31,15 @@
             }
           },
           {
-            "id": "b74b0edc942dd24b",
+            "id": "8786b2f090f2ba03",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#someday",
-                "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": true,
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -55,20 +52,35 @@
     "width": 300
   },
   "right": {
-    "id": "c4bdda9a0e09f431",
+    "id": "de00fbbd31896200",
     "type": "split",
     "children": [
       {
-        "id": "cb139f94236c3805",
+        "id": "f9f77f6dfa4a56dc",
         "type": "tabs",
         "children": [
           {
-            "id": "1fc51e30a8103a91",
+            "id": "0daed63d0b8634c6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3d243b021c0b166",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "26258837c27a72f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,51 +92,28 @@
             }
           },
           {
-            "id": "ad43a39e412d064e",
+            "id": "275dbe7a1078242f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "5642b50fc345aab2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ae32bf18c112a61a",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "a269911f80b25a8a",
+  "active": "11a3d731f0f98a56",
   "lastOpenFiles": [
+    "@@BANDEJA DE ENTRADA/Probando git.md",
     "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
     "Daily Notes/noviembre 11, 2021.md",
-    "Daily Notes/Untitled.md",
-    "test/GTD.md",
-    "001 PROYECTOS.md",
-    "100 Crear PARA en Obsidian.md",
-    "000 PARA INDEX.md",
-    "Celestita/Elementos de Matemática y Física.md",
-    "Celestita/LOS NÚMEROS IRRACIONALES.md",
-    "Celestita/LOS NÚMEROS ENTEROS.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
