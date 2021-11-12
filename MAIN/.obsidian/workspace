@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9fcef8d4bba8e71b",
+        "id": "bf98ee53fd242726",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "@ARCHIVO/MUNICIPAL.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "@ARCHIVO/MUNICIPAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "@ARCHIVO/MUNICIPAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,13 +122,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9fcef8d4bba8e71b",
+  "active": "bf98ee53fd242726",
   "lastOpenFiles": [
+    "@ARCHIVO/MUNICIPAL.md",
+    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
     "@@BANDEJA DE ENTRADA/git prueba 2.md",
     "@@BANDEJA DE ENTRADA/Probando git.md",
     "Untitled.md",
     "Daily Notes/noviembre 11, 2021.md",
-    "conflict-files-obsidian-git.md",
-    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

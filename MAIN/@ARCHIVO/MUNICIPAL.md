@@ -1,0 +1,1 @@
+Pagado ultima de la fecha, anticipo plan.

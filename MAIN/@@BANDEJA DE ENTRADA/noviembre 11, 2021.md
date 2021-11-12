@@ -3,7 +3,7 @@
 - [ ] [[ARBA]]	
 - [ ] [[CORREA CAMIONETA]]
 - [ ] [[CHIPS]]
-- [ ] [[MUNICIPAL]]
+- [x] [[MUNICIPAL]]
 - [ ] [[PREFECTURA]]
 - [ ] [[CAÑITOS]]
 - [ ] [[CEMENTO]]
