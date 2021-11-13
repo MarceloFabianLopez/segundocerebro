@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "5abd6b7cedf6aa7a",
+    "id": "821e9849bb7f7598",
     "type": "split",
     "children": [
       {
-        "id": "6189e19f91037dcc",
+        "id": "a1a7140ba707e545",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/noviembre 13, 2021.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/noviembre 13, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/noviembre 13, 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6189e19f91037dcc",
+  "active": "a1a7140ba707e545",
   "lastOpenFiles": [
-    "@@BANDEJA DE ENTRADA/PLUGIN GIT OBSIDIAN.md",
-    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+    "Daily Notes/noviembre 13, 2021.md",
     "Daily Notes/noviembre 11, 2021.md",
-    "@PROYECTOS/Untitled.md",
-    "@PROXIMAS/Untitled.md",
-    "@PAPELERA/Untitled.md",
-    "@DELEGADOS/Untitled.md",
-    "@@BANDEJA DE ENTRADA/git prueba 2.md",
-    "@ARCHIVO/MUNICIPAL.md",
-    "@@BANDEJA DE ENTRADA/Probando git.md"
+    "Daily Notes/noviembre 08, 2021.md",
+    "Daily Notes/noviembre 10, 2021.md",
+    "Daily Notes/noviembre 15, 2021.md",
+    "@PROXIMAS/CORREA CAMIONETA.md",
+    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+    "@ALGUN DIA/VER SUSCRIPCIONES A APPS.md",
+    "@PROYECTOS/CREAR SCRIPT GIT EN MAQUINAS DE ESCRITORIO.md",
+    "@PROYECTOS/ORGANIZAR VTOUR.md"
   ]
 }
