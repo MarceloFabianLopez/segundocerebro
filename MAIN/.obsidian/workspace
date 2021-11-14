@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/noviembre 13, 2021.md",
-            "mode": "preview"
+            "file": "prueba templater.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/noviembre 13, 2021.md",
+                "file": "prueba templater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/noviembre 13, 2021.md",
+                "file": "prueba templater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,15 +124,15 @@
   },
   "active": "a1a7140ba707e545",
   "lastOpenFiles": [
+    "prueba templater.md",
+    "Untitled.md",
+    "Daily Notes/noviembre 14, 2021.md",
     "Daily Notes/noviembre 13, 2021.md",
     "Daily Notes/noviembre 11, 2021.md",
     "Daily Notes/noviembre 08, 2021.md",
     "Daily Notes/noviembre 10, 2021.md",
     "Daily Notes/noviembre 15, 2021.md",
     "@PROXIMAS/CORREA CAMIONETA.md",
-    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
-    "@ALGUN DIA/VER SUSCRIPCIONES A APPS.md",
-    "@PROYECTOS/CREAR SCRIPT GIT EN MAQUINAS DE ESCRITORIO.md",
-    "@PROYECTOS/ORGANIZAR VTOUR.md"
+    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md"
   ]
 }
