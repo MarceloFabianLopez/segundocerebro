@@ -1,0 +1,77 @@
+{
+  "main": {
+    "id": "4d71e36c627262a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04cc2729d7fb388",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c411d83ba1b66c08",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "92b058b826aebf6a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "54c3f1705f7b2c5d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "49bbc3216e7c428c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4447d97c3e1aec36",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "d04cc2729d7fb388",
+  "lastOpenFiles": [
+    "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md"
+  ]
+}
