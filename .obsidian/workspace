@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "06330ec703d397c0",
     "type": "split",
     "children": [
@@ -12,12 +13,24 @@
             "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
             "mode": "source"
           }
+=======
+    "id": "6b69ad28de03b5ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8b8bc700b391236",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+>>>>>>> 83c3266 (huawey3)
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "652420a253b23b82",
     "type": "split",
     "children": [
@@ -47,6 +60,31 @@
                 "sortOrder": "alphabetical"
               }
             }
+=======
+    "id": "73f12f05f72cecf7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4a8d42dca0871ba3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "327a6ecf07756b76",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+>>>>>>> 83c3266 (huawey3)
           }
         ]
       }
@@ -56,6 +94,7 @@
     "collapsed": true
   },
   "right": {
+<<<<<<< HEAD
     "id": "bbdb632879a3a2fa",
     "type": "split",
     "children": [
@@ -87,6 +126,24 @@
               "type": "calendar",
               "state": {}
             }
+=======
+    "id": "5863fb6f66b99a17",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4fff208b41544b3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+>>>>>>> 83c3266 (huawey3)
           }
         ],
         "currentTab": 1
@@ -95,9 +152,15 @@
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< HEAD
   "active": "c5fc42ce1b70ff95",
   "lastOpenFiles": [
     "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
     "MAIN/@@BANDEJA DE ENTRADA/PLUGIN GIT OBSIDIAN.md"
+=======
+  "active": "a8b8bc700b391236",
+  "lastOpenFiles": [
+    "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md"
+>>>>>>> 83c3266 (huawey3)
   ]
 }
