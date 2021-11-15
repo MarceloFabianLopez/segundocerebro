@@ -7,8 +7,11 @@
         "id": "411d0773e554f352",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,11 @@
   },
   "active": "411d0773e554f352",
   "lastOpenFiles": [
+    "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+    "MAIN/000 PARA INDEX.md",
+    "101 Crear memo pedido de chips y enviar a oficina de prensa.md",
+    "MAIN/100 Crear PARA en Obsidian.md",
+    "MAIN/001 PROYECTOS.md",
     "MAIN/facu/materias/matematicac/apoyo/Baragatti -Sucessiones.md",
     "MAIN/Leer.md",
     "MAIN/facu/materias/matematicac/catedra/Modulo 1 parte 1.md",
