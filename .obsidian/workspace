@@ -1,20 +1,16 @@
 {
   "main": {
-    "id": "4d71e36c627262a3",
+    "id": "06330ec703d397c0",
     "type": "split",
     "children": [
       {
-        "id": "d04cc2729d7fb388",
+        "id": "c5fc42ce1b70ff95",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
-<<<<<<< HEAD
-            "mode": "preview"
-=======
             "mode": "source"
->>>>>>> 55ddfe76b415ca52e81f3c4b709b02ab00cf4579
           }
         }
       }
@@ -22,46 +18,53 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c411d83ba1b66c08",
-    "type": "mobile-drawer",
+    "id": "652420a253b23b82",
+    "type": "split",
     "children": [
       {
-        "id": "92b058b826aebf6a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "54c3f1705f7b2c5d",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-          }
-        }
-      }
-    ],
-    "currentTab": 0
-  },
-  "right": {
-    "id": "49bbc3216e7c428c",
-    "type": "mobile-drawer",
-    "children": [
-      {
-<<<<<<< HEAD
-        "id": "d695b3649bfa6cdc",
+        "id": "5360693709d12f85",
         "type": "tabs",
         "children": [
           {
-            "id": "f5eb7f351e88bb23",
+            "id": "851a3e4a13cb97c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "67102f45dedc6918",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bbdb632879a3a2fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd3d47a182029e38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64d0de5761c2b480",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -76,42 +79,25 @@
                 "unlinkedCollapsed": true
               }
             }
-=======
-        "id": "4447d97c3e1aec36",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
->>>>>>> 55ddfe76b415ca52e81f3c4b709b02ab00cf4579
+          },
+          {
+            "id": "0c54060b185a092f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
-  "active": "d04cc2729d7fb388",
+  "active": "c5fc42ce1b70ff95",
   "lastOpenFiles": [
     "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
-<<<<<<< HEAD
-    "MAIN/000 PARA INDEX.md",
-    "101 Crear memo pedido de chips y enviar a oficina de prensa.md",
-    "MAIN/100 Crear PARA en Obsidian.md",
-    "MAIN/001 PROYECTOS.md",
-    "MAIN/facu/materias/matematicac/apoyo/Baragatti -Sucessiones.md",
-    "MAIN/Leer.md",
-    "MAIN/facu/materias/matematicac/catedra/Modulo 1 parte 1.md",
-    "MAIN/facu/materias/matematicac/catedra/Modulo 1 Parte 1.md",
-    "MAIN/backup/Comandos git.md"
-=======
     "MAIN/@@BANDEJA DE ENTRADA/PLUGIN GIT OBSIDIAN.md"
->>>>>>> 55ddfe76b415ca52e81f3c4b709b02ab00cf4579
   ]
 }

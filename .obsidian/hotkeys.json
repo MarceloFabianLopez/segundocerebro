@@ -1,1 +1,18 @@
-{}
+{
+  "obsidian-git:list-changed-files": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
