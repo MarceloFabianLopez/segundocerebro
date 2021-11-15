@@ -44,7 +44,8 @@
           }
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "49bbc3216e7c428c",
@@ -72,6 +73,7 @@
   },
   "active": "d04cc2729d7fb388",
   "lastOpenFiles": [
-    "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md"
+    "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+    "MAIN/@@BANDEJA DE ENTRADA/PLUGIN GIT OBSIDIAN.md"
   ]
 }
