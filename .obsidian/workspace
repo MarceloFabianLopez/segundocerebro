@@ -1,16 +1,20 @@
 {
   "main": {
-    "id": "3dc82666b007c205",
+    "id": "4d71e36c627262a3",
     "type": "split",
     "children": [
       {
-        "id": "411d0773e554f352",
+        "id": "d04cc2729d7fb388",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+<<<<<<< HEAD
             "mode": "preview"
+=======
+            "mode": "source"
+>>>>>>> 55ddfe76b415ca52e81f3c4b709b02ab00cf4579
           }
         }
       }
@@ -18,47 +22,41 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f0d02f44527dcd67",
-    "type": "split",
+    "id": "c411d83ba1b66c08",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3d3dac3753ab9fc0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f41a1e4baca867e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "ae47fd81bb893728",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "92b058b826aebf6a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "54c3f1705f7b2c5d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "9b96223fdd161f15",
-    "type": "split",
+    "id": "49bbc3216e7c428c",
+    "type": "mobile-drawer",
     "children": [
       {
+<<<<<<< HEAD
         "id": "d695b3649bfa6cdc",
         "type": "tabs",
         "children": [
@@ -78,17 +76,31 @@
                 "unlinkedCollapsed": true
               }
             }
+=======
+        "id": "4447d97c3e1aec36",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+>>>>>>> 55ddfe76b415ca52e81f3c4b709b02ab00cf4579
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "411d0773e554f352",
+  "active": "d04cc2729d7fb388",
   "lastOpenFiles": [
     "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+<<<<<<< HEAD
     "MAIN/000 PARA INDEX.md",
     "101 Crear memo pedido de chips y enviar a oficina de prensa.md",
     "MAIN/100 Crear PARA en Obsidian.md",
@@ -98,5 +110,8 @@
     "MAIN/facu/materias/matematicac/catedra/Modulo 1 parte 1.md",
     "MAIN/facu/materias/matematicac/catedra/Modulo 1 Parte 1.md",
     "MAIN/backup/Comandos git.md"
+=======
+    "MAIN/@@BANDEJA DE ENTRADA/PLUGIN GIT OBSIDIAN.md"
+>>>>>>> 55ddfe76b415ca52e81f3c4b709b02ab00cf4579
   ]
 }

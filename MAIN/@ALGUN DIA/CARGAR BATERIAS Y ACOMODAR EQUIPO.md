@@ -1,0 +1,1 @@
+Hacer un repaso del equipo de video, cargar baterias y limpiar. Guardar todo prolijamente
