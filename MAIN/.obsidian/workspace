@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@@BANDEJA DE ENTRADA/token.md",
+            "file": "@@BANDEJA DE ENTRADA/PLUGIN GIT OBSIDIAN.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@@BANDEJA DE ENTRADA/token.md",
+                "file": "@@BANDEJA DE ENTRADA/PLUGIN GIT OBSIDIAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@@BANDEJA DE ENTRADA/token.md",
+                "file": "@@BANDEJA DE ENTRADA/PLUGIN GIT OBSIDIAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,15 +124,15 @@
   },
   "active": "a1a7140ba707e545",
   "lastOpenFiles": [
+    "@@BANDEJA DE ENTRADA/PLUGIN GIT OBSIDIAN.md",
+    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+    "Daily Notes/noviembre 15, 2021.md",
     "@@BANDEJA DE ENTRADA/token.md",
+    "@PROYECTOS/CREAR SCRIPT GIT EN MAQUINAS DE ESCRITORIO.md",
+    "@PROYECTOS/ORGANIZAR VTOUR.md",
     "Untitled.md",
     "prueba templater.md",
     "Daily Notes/noviembre 14, 2021.md",
-    "Daily Notes/noviembre 13, 2021.md",
-    "Daily Notes/noviembre 11, 2021.md",
-    "Daily Notes/noviembre 08, 2021.md",
-    "Daily Notes/noviembre 10, 2021.md",
-    "Daily Notes/noviembre 15, 2021.md",
-    "@PROXIMAS/CORREA CAMIONETA.md"
+    "Daily Notes/noviembre 13, 2021.md"
   ]
 }
