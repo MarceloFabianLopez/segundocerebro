@@ -17,3 +17,10 @@
 ## Notas
 
 Actualizado desde web de github
+11111
+
+desde web ghitub
+Desde Huawei lunes 
+desde linux trabajo2
+desde trabajo 3
+Charly
