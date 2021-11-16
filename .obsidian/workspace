@@ -1,15 +1,24 @@
 {
   "main": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "id": "06330ec703d397c0",
     "type": "split",
     "children": [
       {
         "id": "c5fc42ce1b70ff95",
+=======
+    "id": "07726d1899bdc7df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e157fd27887ef819",
+>>>>>>> 77833b6 (desde tablet)
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
             "mode": "source"
           }
@@ -24,12 +33,18 @@
           "type": "empty",
           "state": {}
 >>>>>>> 83c3266 (huawey3)
+=======
+            "file": "Prueba git.md",
+            "mode": "source"
+          }
+>>>>>>> 77833b6 (desde tablet)
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
 <<<<<<< HEAD
     "id": "652420a253b23b82",
     "type": "split",
@@ -66,6 +81,13 @@
     "children": [
       {
         "id": "4a8d42dca0871ba3",
+=======
+    "id": "28d20c95c9a175bf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b33f809093405479",
+>>>>>>> 77833b6 (desde tablet)
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -73,7 +95,11 @@
         }
       },
       {
+<<<<<<< HEAD
         "id": "327a6ecf07756b76",
+=======
+        "id": "236ca615e8b808f6",
+>>>>>>> 77833b6 (desde tablet)
         "type": "leaf",
         "state": {
           "type": "search",
@@ -84,6 +110,7 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
+<<<<<<< HEAD
 >>>>>>> 83c3266 (huawey3)
           }
         ]
@@ -132,10 +159,28 @@
     "children": [
       {
         "id": "f4fff208b41544b3",
+=======
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a74a476ad0ed60cf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ddf444ff3e62b68a",
+>>>>>>> 77833b6 (desde tablet)
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+<<<<<<< HEAD
+=======
+            "file": "Prueba git.md",
+>>>>>>> 77833b6 (desde tablet)
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,6 +188,7 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
+<<<<<<< HEAD
 >>>>>>> 83c3266 (huawey3)
           }
         ],
@@ -162,5 +208,18 @@
   "lastOpenFiles": [
     "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md"
 >>>>>>> 83c3266 (huawey3)
+=======
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e157fd27887ef819",
+  "lastOpenFiles": [
+    "Prueba git.md",
+    "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+    "MAIN/Daily Notes/noviembre 13, 2021.md"
+>>>>>>> 77833b6 (desde tablet)
   ]
 }
