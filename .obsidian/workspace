@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7e070946ea801ffa",
+        "id": "29f2c75d36acb9b6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
-            "mode": "source"
+            "file": "borrar.md",
+            "mode": "preview"
           }
         }
       }
@@ -18,69 +18,93 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a0ef5e8cf5fc7024",
-    "type": "mobile-drawer",
+    "id": "4c7e5662e9b212d3",
+    "type": "split",
     "children": [
       {
-        "id": "ecedeb1b4cb7270f",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "ee708cc8e7f5909d",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "e82fa58b151f31e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2db31fc9dc9f667d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f566a60f6c7e86a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 304
   },
   "right": {
-    "id": "0bad011323bbc053",
-    "type": "mobile-drawer",
+    "id": "41a3eff5681aa957",
+    "type": "split",
     "children": [
       {
-        "id": "033c9fb50e026117",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "a7a04b182858ac12",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "acf76fb06aea7553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9155ea5a09573cea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab73dce2f97458b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "borrar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "7e070946ea801ffa",
+  "active": "29f2c75d36acb9b6",
   "lastOpenFiles": [
-    "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md"
+    "borrar.md",
+    "EL OJO DE AGUILA.md",
+    "MAIN/Celestita/Elementos de Matemática y Física.md",
+    "MAIN/regalo/1000 - NOTAS EJEMPLO OBSIDIAN/LIBROS/LIBROS C¢digo manifestaci¢n.md",
+    "MAIN/Celestita/LOS NÚMEROS ENTEROS.md",
+    "MAIN/facu/materias/matematicac/apoyo/Baragatti -Sucessiones.md",
+    "MAIN/facu/materias/matematicac/catedra/Modulo 1 parte 1.md",
+    "MAIN/facu/materias/matematicac/apoyo/Untitled.md",
+    "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+    "TESIS.md"
   ]
 }
