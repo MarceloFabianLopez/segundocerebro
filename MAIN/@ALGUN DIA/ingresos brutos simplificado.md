@@ -1,0 +1,1 @@
+Contemplar lo de la condonacion

@@ -1,0 +1,1 @@
+Entrar en plan de pago y pagar la ultima

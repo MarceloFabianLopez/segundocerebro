@@ -1,1 +1,0 @@
-Realizado, faltara algo en la maquina del trabajo. Falta celu

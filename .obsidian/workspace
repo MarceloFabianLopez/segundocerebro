@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "borrar.md",
+            "file": "MAIN/Daily Notes/noviembre 17, 2021.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "be869d69f908122e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Daily Notes/noviembre 17, 2021.md",
             "mode": "preview"
           }
         }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "borrar.md",
+                "file": "MAIN/Daily Notes/noviembre 17, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29f2c75d36acb9b6",
+  "active": "be869d69f908122e",
   "lastOpenFiles": [
-    "borrar.md",
-    "EL OJO DE AGUILA.md",
-    "MAIN/Celestita/Elementos de Matemática y Física.md",
-    "MAIN/regalo/1000 - NOTAS EJEMPLO OBSIDIAN/LIBROS/LIBROS C¢digo manifestaci¢n.md",
-    "MAIN/Celestita/LOS NÚMEROS ENTEROS.md",
-    "MAIN/facu/materias/matematicac/apoyo/Baragatti -Sucessiones.md",
-    "MAIN/facu/materias/matematicac/catedra/Modulo 1 parte 1.md",
-    "MAIN/facu/materias/matematicac/apoyo/Untitled.md",
-    "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
-    "TESIS.md"
+    "MAIN/Daily Notes/noviembre 17, 2021.md",
+    "MAIN/@HACER/RETIRAR BONO APL, PUTEAR A JUAN.md",
+    "MAIN/@HACER/PEDIR TURNO A DERMATOLOGA.md",
+    "MAIN/@HACER/PEDIR TURNO A ODONTOLOGA.md",
+    "MAIN/@HACER/VER CLINICO PARA VESICULA Y TODA LA GUASCA.md",
+    "MAIN/@HACER/PAGAR LUZ, GAS, CELUARES.md",
+    "MAIN/@HACER/LLAMAR A PABLITO.md",
+    "MAIN/@PROYECTOS/VENDER CERVECERIA.md",
+    "MAIN/@ALGUN DIA/REPARAR LLAVE LEVANTA VIDRIOS TRASERO DERECHO.md",
+    "MAIN/@PROYECTOS/PROGRAMAR COMPRAS DE CREMA.md"
   ]
 }

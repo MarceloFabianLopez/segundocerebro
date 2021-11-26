@@ -1,0 +1,1 @@
+ver para ponerlo en chip tablet
