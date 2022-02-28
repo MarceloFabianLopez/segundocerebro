@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "29f2c75d36acb9b6",
+        "id": "f7499ec8ae84a987",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Daily Notes/noviembre 17, 2021.md",
+            "file": "MAIN/@@BANDEJA DE ENTRADA/maquina grande borrar.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "be869d69f908122e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Daily Notes/noviembre 17, 2021.md",
-            "mode": "preview"
           }
         }
       }
@@ -29,93 +18,72 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4c7e5662e9b212d3",
-    "type": "split",
+    "id": "a0ef5e8cf5fc7024",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "e82fa58b151f31e0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2db31fc9dc9f667d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "f566a60f6c7e86a0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "ecedeb1b4cb7270f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ee708cc8e7f5909d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 304
+    "currentTab": 0
   },
   "right": {
-    "id": "41a3eff5681aa957",
-    "type": "split",
+    "id": "0bad011323bbc053",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "acf76fb06aea7553",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9155ea5a09573cea",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ab73dce2f97458b8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MAIN/Daily Notes/noviembre 17, 2021.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "033c9fb50e026117",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a7a04b182858ac12",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "MAIN/@@BANDEJA DE ENTRADA/maquina grande borrar.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "be869d69f908122e",
+  "active": "f7499ec8ae84a987",
   "lastOpenFiles": [
-    "MAIN/Daily Notes/noviembre 17, 2021.md",
-    "MAIN/@HACER/RETIRAR BONO APL, PUTEAR A JUAN.md",
-    "MAIN/@HACER/PEDIR TURNO A DERMATOLOGA.md",
-    "MAIN/@HACER/PEDIR TURNO A ODONTOLOGA.md",
-    "MAIN/@HACER/VER CLINICO PARA VESICULA Y TODA LA GUASCA.md",
-    "MAIN/@HACER/PAGAR LUZ, GAS, CELUARES.md",
-    "MAIN/@HACER/LLAMAR A PABLITO.md",
-    "MAIN/@PROYECTOS/VENDER CERVECERIA.md",
-    "MAIN/@ALGUN DIA/REPARAR LLAVE LEVANTA VIDRIOS TRASERO DERECHO.md",
-    "MAIN/@PROYECTOS/PROGRAMAR COMPRAS DE CREMA.md"
+    "MAIN/@@BANDEJA DE ENTRADA/maquina grande borrar.md",
+    "MAIN/@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
+    "MAIN/@@BANDEJA DE ENTRADA/PLUGIN GIT OBSIDIAN.md",
+    "MAIN/Daily Notes/noviembre 17, 2021.md"
   ]
 }
