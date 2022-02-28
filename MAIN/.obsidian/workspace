@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BANDEJA DE ENTRADA.md",
-            "mode": "source"
+            "file": "@@BANDEJA DE ENTRADA/maquina grande borrar.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BANDEJA DE ENTRADA.md",
+                "file": "@@BANDEJA DE ENTRADA/maquina grande borrar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BANDEJA DE ENTRADA.md",
+                "file": "@@BANDEJA DE ENTRADA/maquina grande borrar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,6 +116,7 @@
   },
   "active": "b4ddd3a36d04a062",
   "lastOpenFiles": [
+    "@@BANDEJA DE ENTRADA/maquina grande borrar.md",
     "BANDEJA DE ENTRADA.md",
     "@PROYECTOS/CREAR SCRIPT GIT EN MAQUINAS DE ESCRITORIO.md",
     "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/CREA TU PKM/Reglas de Markdown.md",
@@ -124,7 +125,6 @@
     "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/GESTIàN TAREAS/2021 Objetivos demo.md",
     "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/KANBAN/Kanban Tareas.md",
     "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MIS VIAJES/ANEXOS/Pasted image 20210322105729.png",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/plantilla_DIARIO.md",
-    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/Plantilla Universal.md"
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/plantilla_DIARIO.md"
   ]
 }
