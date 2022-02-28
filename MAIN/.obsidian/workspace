@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "821e9849bb7f7598",
+    "id": "acd317fd9a610245",
     "type": "split",
     "children": [
       {
-        "id": "a1a7140ba707e545",
+        "id": "b4ddd3a36d04a062",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "BANDEJA DE ENTRADA.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BANDEJA DE ENTRADA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,37 +101,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BANDEJA DE ENTRADA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "d496bd3850cfdc1e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a1a7140ba707e545",
+  "active": "b4ddd3a36d04a062",
   "lastOpenFiles": [
-    "Daily Notes/noviembre 14, 2021.md",
-    "Daily Notes/noviembre 15, 2021.md",
-    "Daily Notes/noviembre 17, 2021.md",
-    "Daily Notes/noviembre 13, 2021.md",
-    "Daily Notes/noviembre 11, 2021.md",
-    "Daily Notes/noviembre 08, 2021.md",
-    "Daily Notes/noviembre 10, 2021.md",
-    "Daily Notes/Untitled.md",
-    "@@BANDEJA DE ENTRADA/noviembre 11, 2021.md",
-    "@PROXIMAS/CORREA CAMIONETA.md"
+    "BANDEJA DE ENTRADA.md",
+    "@PROYECTOS/CREAR SCRIPT GIT EN MAQUINAS DE ESCRITORIO.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/CREA TU PKM/Reglas de Markdown.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/CUBO DE RUBIK/Cubo de Rubik algoritmos.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/EQUIPO/Obisidan c¢mo trabajar en equipo.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/GESTIàN TAREAS/2021 Objetivos demo.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/KANBAN/Kanban Tareas.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/MIS VIAJES/ANEXOS/Pasted image 20210322105729.png",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/plantilla_DIARIO.md",
+    "regalo/1000 - NOTAS EJEMPLO OBSIDIAN/PLANTILLAS/Plantilla Universal.md"
   ]
 }
